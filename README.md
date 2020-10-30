@@ -1,6 +1,6 @@
 # Surf Ski 16
 
-Surf Ski 16, is a remake for CSGO, of the great [Surf_Ski_2](https://gamebanana.com/maps/149561) map, made by 'Super Mario' for Counter Strike 1.6.
+Surf_Ski_16, is a remake for CSGO, of the great [Surf_Ski_2](https://gamebanana.com/maps/149561) map, made by 'Super Mario' for Counter Strike 1.6.
 The remake was made using [Valve Hammer](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor) and [VTFEditor](https://developer.valvesoftware.com/wiki/VTFEdit) and is fully supported by CS:GO
 The map still contains Super Mario's credits, alongside my newly added ones, as the remaker
 
