@@ -1,3 +1,4 @@
+
 # Surf Ski 16
 
 Surf_Ski_16, is a remake for CSGO, of the great [Surf_Ski_2](https://gamebanana.com/maps/149561) map, made by 'Super Mario' for Counter Strike 1.6.
@@ -12,6 +13,13 @@ To install the map on your server/local files, simply download the most recent r
 Feel free to use the map on all your servers and for as long as you want:) but please follow the MIT License by leaving the copyright texts which are on some of the map's textures. For me and for the great Super Mario
 ## Some Screenshots
 [To be Added]
+## Recommended Server Mods
+
+ - [SourceMod](https://www.sourcemod.net/)
+ - [Roundsound](https://forums.alliedmods.net/showthread.php?p=1786846) by tumtum [Contains CS1.6 roundsounds]
+ - [FortniteHits](https://forums.alliedmods.net/showthread.php?p=2604559) by butare -> Not the oldschool ShowDamage, but it's nice to have some newschool 'tech':)
+ - [Weapon Cleanup](https://forums.alliedmods.net/showthread.php?p=1424937) by Franc1sco, to keep your server happily living
+
 ## Recommended Server Commands
     mp_roundtime 60
     mp_respawn_on_death_ct 1
@@ -28,9 +36,7 @@ Feel free to use the map on all your servers and for as long as you want:) but p
     mp_autoteambalance 0
     bot_join_after_player 0
     bot_quota 0
-    
-    
-    // Bhop
+    // BHOP
     sv_enablebunnyhopping 1
     sv_autobunnyhopping 1
     sv_accelerate 7
@@ -40,6 +46,3 @@ Feel free to use the map on all your servers and for as long as you want:) but p
     sv_staminamax 0
     sv_staminarecoveryrate 0
     sv_clamp_unsafe_velocities 0
-    
-
-
