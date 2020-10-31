@@ -13,7 +13,8 @@ To install the map on your server/local files, simply download the most recent r
 
 Feel free to use the map on all your servers and for as long as you want:) but please follow the MIT License by leaving the copyright texts which are on some of the map's textures. For me and for the great Super Mario
 ## Some Screenshots
-[To be Added]
+![First Image Comparsion](https://i.imgur.com/QLT2fSj.png)
+![Second Image Comparsion](https://i.imgur.com/dHdRjYr.png)
 ## Recommended Server Mods
 
  - [SourceMod](https://www.sourcemod.net/)
