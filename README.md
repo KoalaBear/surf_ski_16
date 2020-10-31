@@ -13,12 +13,12 @@ To install the map on your server/local files, simply download the most recent r
 ## Terms of Use
 
 Feel free to use the map on all your servers and for as long as you want:) but please follow the MIT License by leaving the copyright texts which are on some of the map's textures. For me and for the great Super Mario
-## Donations
- - [Donate to the Save The Koala](https://www.savethekoala.com/donate)
- - [Donate to me](https://www.paypal.com/donate/?hosted_button_id=8ZV7PLZ98T3B6)
 ## Screenshots
 ![First Image Comparsion](https://i.imgur.com/QLT2fSj.png)
 ![Second Image Comparsion](https://i.imgur.com/dHdRjYr.png)
+## Donations
+ - [Donate to Save The Koala](https://www.savethekoala.com/donate)
+ - [Donate to me](https://www.paypal.com/donate/?hosted_button_id=8ZV7PLZ98T3B6)
 ## Recommended Server Mods
 
  - [SourceMod](https://www.sourcemod.net/)
