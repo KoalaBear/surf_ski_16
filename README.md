@@ -1,5 +1,5 @@
 ![Offical Map Image](https://steamuserimages-a.akamaihd.net/ugc/1681492314113788800/55981097C5E8D21A0ABE627B8D2F83E7B82B7D0F/)
-<p align="center">[Workshop Page Link](https://steamcommunity.com/sharedfiles/filedetails/?id=2271972961)</p>
+<p align="center"><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2271972961">Workshop Page Link</a></p>
 
 # Surf Ski 16
 
