@@ -19,6 +19,8 @@ Feel free to use the map on all your servers and for as long as you want:) but p
 ## Donations
  - [Donate to Save The Koala](https://www.savethekoala.com/donate)
  - [Donate to me](https://www.paypal.com/donate/?hosted_button_id=8ZV7PLZ98T3B6)
+ ## Issues, Improvements and Contact Information
+ Feel free to contact me for any reason on [koalabeardevelopments@gmail.com](mailto:koalabeardevelopments@gmail.com):)
 ## Recommended Server Mods
 
  - [SourceMod](https://www.sourcemod.net/)
