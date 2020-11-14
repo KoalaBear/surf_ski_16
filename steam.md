@@ -3,13 +3,13 @@
 Made by The Koala Bear. Don't forget [/b][u]sv_airaccelerate 100[/u][b] to surf![/b]
 [h3][b]          now Available on GitHub---> https://github.com/KoalaBear[/b][/h3]
 [hr]
-[b][h3]Notice[/h3][/b]
+[h3][b]Notice[/b][/h3]
 [b]Please Enjoy your time playing while 'kindly' leaving the map's copyright textures:)[/b] hundreds of hours were invested on this project
 
-[b][h3]For The Full surf_ski_2 Experience[/h3][/b]
+[h3][b]For The Full surf_ski_2 Experience[/b][/h3]
 Use my recommended server commands & cs1.6 like SM plugins list, which is fully described on the GitHub page.
 
-[b][h3] For Issues, Improvements and more[/h3][/b]
+[h3][b] For Issues, Improvements and more[/b][/h3]
 Feel free to contact me anytime on koalabeardevelopments@gmail.com And I'll get back to you ASAP:)
 
 
